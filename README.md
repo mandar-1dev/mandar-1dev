@@ -12,7 +12,7 @@ I enjoy working at the intersection of:
 * 💻 Developing **Full Stack Applications**
 * 🧠 Exploring **RAG, AI Memory & Vector Databases**
 * ⚙️ Building scalable backend services with **FastAPI & APIs**
-* 🏗️ Learning **System Design & Distributed Systems**
+* 🏗️ Learning **System Design , Distributed Systems & Advanced Systems**
 * 🔓 Contributing to **Open Source**
 
 ---
