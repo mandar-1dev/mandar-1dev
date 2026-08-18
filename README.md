@@ -1,25 +1,34 @@
 # 👋 Hey, I'm Mandar Suryavanshi
 
-### 🤖 AI Systems • ⚙️ Backend Engineering • 🌐 System Design
+### 🤖 AI Systems • 💻 Full Stack Development • ⚙️ Backend Engineering • 🌐 System Design
 
-Computer Science & Data Science student focused on building **AI-powered, scalable backend systems**.
+I'm a **Computer Science & Data Science student** passionate about building intelligent, scalable, and production-oriented software systems.
+
+I enjoy working at the intersection of:
+
+> **🤖 AI Systems × 💻 Full Stack Development × ⚙️ Backend Engineering × 🌐 Distributed Systems**
 
 * 🤖 Building **AI Agents & Multi-Agent Systems**
+* 💻 Developing **Full Stack Applications**
 * 🧠 Exploring **RAG, AI Memory & Vector Databases**
-* ⚙️ Building backend systems with **Python & FastAPI**
-* 🌐 Learning **Distributed Systems & Microservices**
-* 🏗️ Practicing **System Design & DSA**
+* ⚙️ Building scalable backend services with **FastAPI & APIs**
+* 🏗️ Learning **System Design & Distributed Systems**
 * 🔓 Contributing to **Open Source**
 
 ---
 
 # 🚀 Featured Projects
 
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
 ## 🤖 AI Multi-Agent Operating System
 
-AI system where specialized agents collaborate to solve complex tasks using planning, research, memory and tool calling.
+A multi-agent AI system where specialized agents collaborate to perform complex tasks through planning, research, memory retrieval, and response generation.
 
-**Key Features**
+### Key Features
 
 * Agent Orchestration
 * Long-Term Memory
@@ -27,15 +36,24 @@ AI system where specialized agents collaborate to solve complex tasks using plan
 * Context Retrieval
 * Multi-Agent Collaboration
 
-**Tech:** `Python` `FastAPI` `LangChain` `LangGraph` `Redis` `Vector DB` `Docker` `React`
+### Tech Stack
 
----
+`Python` · `FastAPI` · `LangChain` · `LangGraph`
+`Redis` · `Vector DB` · `Docker` · `React`
+
+### 🔗 Project
+
+[View Repository →](YOUR_MULTI_AGENT_PROJECT_LINK)
+
+</td>
+
+<td width="50%" valign="top">
 
 ## 🎯 Distributed AI Interview Simulator
 
-Real-time AI interview platform supporting voice/text interaction, adaptive questioning and performance evaluation.
+An AI-powered interview platform supporting real-time voice and text interaction, adaptive questioning, and intelligent performance evaluation.
 
-**Key Features**
+### Key Features
 
 * Real-Time Voice & Text
 * Adaptive Questioning
@@ -43,179 +61,234 @@ Real-time AI interview platform supporting voice/text interaction, adaptive ques
 * Performance Analytics
 * WebSocket Communication
 
-**Tech:** `Python` `FastAPI` `WebSockets` `React` `PostgreSQL` `Whisper AI` `Docker`
+### Tech Stack
 
----
+`Python` · `FastAPI` · `WebSockets` · `React`
+`PostgreSQL` · `Whisper AI` · `Docker`
+
+### 🔗 Project
+
+[View Repository →](YOUR_INTERVIEW_SIMULATOR_PROJECT_LINK)
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
 
 ## 🧠 AI Memory Engine & Knowledge OS
 
-Persistent AI memory system for semantic search, long-term context and personalized knowledge retrieval.
+A persistent AI memory system designed for semantic search, long-term context retention, and intelligent knowledge retrieval.
 
-**Key Features**
+### Key Features
 
 * Semantic Search
 * Long-Term Memory
 * Vector Embeddings
-* RAG Pipelines
 * Context Retrieval
+* RAG Pipelines
 
-**Tech:** `Python` `FastAPI` `PostgreSQL` `Redis` `Vector DB` `RAG`
+### Tech Stack
 
----
+`Python` · `FastAPI` · `PostgreSQL`
+`Redis` · `Vector DB` · `RAG`
+
+### 🔗 Project
+
+[View Repository →](YOUR_AI_MEMORY_PROJECT_LINK)
+
+</td>
+
+<td width="50%" valign="top">
 
 ## ✈️ Intelligent Airport Digital Twin
 
-AI-powered airport operations platform simulating passenger flow, flights, gates, runways and real-time airport operations.
+An enterprise-style airport operations platform simulating end-to-end airport operations with AI-powered scheduling, analytics, and real-time monitoring.
 
-**Key Features**
+### Key Features
 
 * Flight Scheduling
 * Gate Assignment
 * Runway Optimization
-* Real-Time Monitoring
 * Predictive Analytics
+* Real-Time Monitoring
 * Anomaly Detection
 
-**Tech:** `Python` `Streamlit` `SQLite` `Pandas` `NumPy` `Plotly` `Scikit-learn`
+### Tech Stack
+
+`Python` · `Streamlit` · `SQLite`
+`Pandas` · `NumPy` · `Plotly` · `Scikit-learn`
+
+### 🔗 Project
+
+[View Repository →](YOUR_AIRPORT_PROJECT_LINK)
+
+</td>
+
+</tr>
+</table>
 
 ---
 
 # 🛠️ Tech Stack
 
-### 💻 Languages
+## 💻 Programming Languages
 
-<p>
-<img src="https://skillicons.dev/icons?i=python,cpp,go,sql" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,cpp,java,javascript,go,rust&perline=6" />
 </p>
 
-### 🤖 AI / ML
-
-<p>
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow" />
+<p align="center">
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" height="48" />
 </p>
 
-`LangChain` `LangGraph` `RAG` `Vector Databases` `Generative AI` `AI Agents`
+## 💻 Full Stack Development
 
-### ⚙️ Backend
-
-<p>
-<img src="https://skillicons.dev/icons?i=fastapi,django,redis,docker" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nodejs,html,css,fastapi&perline=5" />
 </p>
 
-`REST APIs` `WebSockets` `Microservices` `API Design`
+<p align="center">
 
-### 🗄️ Databases
+  <img src="https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
 
-<p>
-<img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,mongodb,redis" />
+  <img src="https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=socketdotio&logoColor=white" />
+
 </p>
 
-`PostgreSQL` `MySQL` `SQLite` `MongoDB` `Redis` `Vector Databases`
+## 🗄️ Databases & Infrastructure
 
-### 🌐 Frontend & Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,docker&perline=5" />
+</p>
 
-<p>
-<img src="https://skillicons.dev/icons?i=react,html,css,git,github,linux,vscode" />
+## 🤖 AI & Intelligent Systems
+
+<p align="center">
+
+  <img src="https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=langchain&logoColor=white" />
+
+  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+
+  <img src="https://img.shields.io/badge/RAG-FF6F00?style=for-the-badge" />
+
+  <img src="https://img.shields.io/badge/Vector_Databases-6E44FF?style=for-the-badge" />
+
 </p>
 
 ---
 
-# 🧩 Engineering Focus
+# 🧠 What I'm Focused On
 
 ```text
-AI Systems
-├── Multi-Agent Systems
-├── RAG
-├── AI Memory
-└── Vector Databases
+💻 Full Stack Development
+   ├── React
+   ├── Node.js
+   ├── FastAPI
+   ├── REST APIs
+   └── WebSockets
 
-Backend
-├── FastAPI
-├── REST APIs
-├── WebSockets
-└── Microservices
+🤖 AI Systems
+   ├── AI Agents
+   ├── Multi-Agent Systems
+   ├── RAG Pipelines
+   └── AI Memory
 
-Distributed Systems
-├── Scalability
-├── Caching
-├── Service Communication
-└── Reliability
+🌐 Distributed Systems
+   ├── Scalability
+   ├── Service Communication
+   ├── Caching
+   └── Reliability
 
-System Design
-├── Architecture
-├── Databases
-├── Load Handling
-└── Real-Time Systems
+🏗️ System Design
+   ├── Architecture
+   ├── Databases
+   ├── Load Handling
+   └── Microservices
 ```
-
----
-
-# 📚 Currently Exploring
-
-**🤖 Agentic AI**
-AI Agents • Tool Calling • Agent Orchestration
-
-**🧠 AI Memory**
-Long-Term Memory • Semantic Search • Knowledge Systems
-
-**🌐 Distributed Systems**
-Scalability • Service Communication • Reliability
-
-**🏗️ System Design**
-Architecture • Caching • Databases • Microservices
 
 ---
 
 # 🌱 Open Source
 
-### 2026
+### 🚀 Open Source Contributor
 
-* 🌟 **GirlScript Summer of Code** — AI / ML Contributions
-* 🌟 **Nexus Spring of Code** — Backend & Distributed Systems
-* 🚀 Building and contributing to real-world projects
+* 🌟 **GirlScript Summer of Code 2026**
+
+  * Contributing to AI/ML open-source projects
+
+* 🌟 **Nexus Spring of Code 2026**
+
+  * Exploring backend and distributed systems projects
+
+I enjoy working with real-world codebases and learning through:
+
+**Collaboration → Code Reviews → Debugging → Building → Improving**
 
 ---
 
-# 📊 GitHub
+# 📊 GitHub Activity
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=mandar-1dev&show_icons=true&theme=tokyonight&hide_border=true" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mandar-1dev&theme=tokyonight&hide_border=true" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&rank_icon=github" />
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&hide_border=true" />
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true" />
+
 </p>
 
 ---
 
-# 🎯 What I'm Building Toward
+# 🎯 Current Goal
 
 ```text
-AI
- ↓
-Backend
- ↓
+AI Systems
+     ↓
+Full Stack Development
+     ↓
+Backend Engineering
+     ↓
 Distributed Systems
- ↓
+     ↓
 System Design
- ↓
+     ↓
 Scalable Intelligent Systems 🚀
 ```
 
-> **Build it → Understand it → Break it → Improve it → Scale it**
+> **Build → Understand → Debug → Improve → Scale**
 
 ---
 
 # 🤝 Let's Connect
 
-Interested in **AI Systems, Backend Engineering, Distributed Systems, System Design & Open Source**.
+I'm always interested in connecting with people working in:
 
-<p>
-<a href="https://github.com/mandar-1dev">
+**🤖 AI Systems · 💻 Full Stack Development · ⚙️ Backend Engineering · 🌐 Distributed Systems · 🏗️ System Design · 🔓 Open Source**
+
+<p align="center">
+
+<a href="https://github.com/YOUR_GITHUB_USERNAME">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-<a href="https://www.linkedin.com/">
+
+<a href="YOUR_LINKEDIN_LINK">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
+
 </p>
 
-### ⚡ Building the systems behind intelligent software.
+<h3 align="center">
+⚡ Building intelligent systems that scale.
+</h3>
 
-**AI → Architecture → Scale → Impact**
+<p align="center">
+<b>AI → Full Stack → Architecture → Scale → Impact 🚀</b>
+</p>
