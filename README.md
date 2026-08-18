@@ -5,7 +5,7 @@
 ### 🚀 AI • Distributed Systems • Backend Engineering • System Design
 
 <p>
-  <a href="YOUR_LINKEDIN_URL">
+  <a href="https://www.linkedin.com/in/mandar-acse">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
   </a>
   <a href="https://github.com/mandar-1dev">
