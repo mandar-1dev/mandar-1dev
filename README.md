@@ -43,7 +43,7 @@ A multi-agent AI system where specialized agents collaborate to perform complex 
 
 ### 🔗 Project
 
-[View Repository →](YOUR_MULTI_AGENT_PROJECT_LINK)
+[View Repository →](https://github.com/mandar-1dev/ai-multi-agent-os)
 
 </td>
 
@@ -68,7 +68,7 @@ An AI-powered interview platform supporting real-time voice and text interaction
 
 ### 🔗 Project
 
-[View Repository →](YOUR_INTERVIEW_SIMULATOR_PROJECT_LINK)
+[View Repository →](https://github.com/mandar-1dev/Smart-Interviewer)
 
 </td>
 
@@ -97,7 +97,7 @@ A persistent AI memory system designed for semantic search, long-term context re
 
 ### 🔗 Project
 
-[View Repository →](YOUR_AI_MEMORY_PROJECT_LINK)
+[View Repository →](https://github.com/mandar-1dev/ai-memory-engine)
 
 </td>
 
@@ -123,7 +123,7 @@ An enterprise-style airport operations platform simulating end-to-end airport op
 
 ### 🔗 Project
 
-[View Repository →](YOUR_AIRPORT_PROJECT_LINK)
+[View Repository →](https://github.com/mandar-1dev/Airport-Management)
 
 </td>
 
@@ -275,12 +275,15 @@ I'm always interested in connecting with people working in:
 
 <p align="center">
 
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
+<a href="https://github.com/mandadr-1dev">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="YOUR_LINKEDIN_LINK">
+<a href="https://www.linkedin.com/in/mandar-acse">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="mandar.acse4@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 </p>
