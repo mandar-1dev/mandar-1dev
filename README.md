@@ -1,17 +1,20 @@
 <div align="center">
 
-<img src="https://github.com/mandar-1dev.png" width="140" height="140" alt="Mandar Suryavanshi"/>
+<img src="assets/avatar.svg" width="180" height="180" alt="Mandar Suryavanshi"/>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&duration=3000&pause=900&color=6E44FF&center=true&vCenter=true&width=750&lines=Hey%2C+I'm+Mandar+Suryavanshi+%F0%9F%91%8B;AI+Systems+%C2%B7+Backend+Engineering;Full-Stack+%C2%B7+Distributed+Systems;Building+intelligent%2C+scalable+software" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=800&color=6E44FF&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+Mandar+Suryavanshi+%F0%9F%91%8B;AI+Systems+%C2%B7+Backend+Engineering;Full+Stack+%C2%B7+Distributed+Systems;Building+intelligent%2C+scalable+software" alt="Typing SVG"/>
 
 <br/>
 
 <p>
-  <b>AI Systems</b> &nbsp;•&nbsp;
-  <b>Backend Engineering</b> &nbsp;•&nbsp;
-  <b>Full-Stack Development</b> &nbsp;•&nbsp;
+  <b>AI Systems</b>
+  &nbsp;•&nbsp;
+  <b>Backend Engineering</b>
+  &nbsp;•&nbsp;
+  <b>Full-Stack Development</b>
+  &nbsp;•&nbsp;
   <b>System Design</b>
 </p>
 
@@ -20,7 +23,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:mandar.acse4@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://mandar-1dev.github.io">
     <img src="https://img.shields.io/badge/Portfolio-6E44FF?style=for-the-badge&logo=vercel&logoColor=white"/>
@@ -30,7 +33,7 @@
   </a>
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=mandar-1dev&style=for-the-badge&color=6E44FF&label=PROFILE+VIEWS"/>
+<img src="https://komarev.com/ghpvc/?username=mandar-1dev&style=for-the-badge&color=6E44FF&label=PROFILE+VIEWS" alt="Profile Views"/>
 
 </div>
 
@@ -38,29 +41,26 @@
 
 ## 🧠 About Me
 
-I'm a **second-year B.Tech Computer Science (Data Science) student** interested in building intelligent systems and scalable software.
-
-My focus is where **AI meets backend engineering and system design**.
-
 ```yaml
+role: Second-year B.Tech CS (Data Science) student
 focus:
   - AI Agents & Multi-Agent Systems
   - RAG & Vector Search
   - Backend Engineering
   - Distributed Systems
+  - Full-Stack Development
   - System Design
-  - FinTech Systems
 
 currently:
-  - Building production-oriented projects
-  - Exploring scalable architectures
+  - Building production-oriented software
+  - Exploring scalable backend architectures
   - Contributing to open source
 ```
 
-* 🤖 Building **AI agents and multi-agent systems**
-* 🧠 Exploring **RAG, embeddings, vector databases and AI memory**
-* ⚙️ Building backend services with **Python, Go and Java**
-* 🏗️ Learning **distributed systems, microservices and system design**
+* 🤖 Building **AI agents & multi-agent systems** that plan, retrieve, and reason
+* 🧩 Exploring **RAG pipelines, embeddings, vector databases, and AI memory**
+* ⚙️ Building backend services with **FastAPI, Go, and Node.js**
+* 🏗️ Learning **system design, distributed systems, and microservices**
 * 🔓 Contributing to **open-source projects**
 
 ---
@@ -75,10 +75,10 @@ currently:
 ### 🤖 AI Multi-Agent OS
 
 <a href="https://github.com/mandar-1dev/ai-multi-agent-os">
-<img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-An AI orchestration platform that decomposes complex goals into subtasks and coordinates **9 specialized agents**.
+An orchestrator that decomposes complex goals into subtasks and dispatches them across **9 specialist agents**, with RAG-backed context, long-term memory, and a live execution dashboard.
 
 **Highlights**
 
@@ -88,7 +88,7 @@ An AI orchestration platform that decomposes complex goals into subtasks and coo
 * Tool calling
 * Real-time WebSocket dashboard
 
-`Python` `FastAPI` `LangGraph` `ChromaDB` `Gemini` `React` `Docker`
+`FastAPI` `LangGraph` `ChromaDB` `Gemini` `React/TS` `Docker`
 
 </td>
 
@@ -97,10 +97,10 @@ An AI orchestration platform that decomposes complex goals into subtasks and coo
 ### 🧠 AI Memory Engine
 
 <a href="https://github.com/mandar-1dev/ai-memory-engine">
-<img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-A personal **Knowledge OS** that stores, enriches, embeds and retrieves information through a complete RAG pipeline.
+A personal **Knowledge OS** implementing a complete RAG pipeline where memories are enriched, embedded, stored, and semantically retrieved.
 
 **Highlights**
 
@@ -110,7 +110,7 @@ A personal **Knowledge OS** that stores, enriches, embeds and retrieves informat
 * Redis caching
 * JWT authentication
 
-`Python` `FastAPI` `PostgreSQL` `Redis` `ChromaDB` `Gemini`
+`FastAPI` `PostgreSQL` `Redis` `ChromaDB` `Gemini`
 
 </td>
 
@@ -123,20 +123,21 @@ A personal **Knowledge OS** that stores, enriches, embeds and retrieves informat
 ### 💳 PayFlow
 
 <a href="https://github.com/mandar-1dev/PayFlow">
-<img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-A distributed payment-processing platform designed around realistic transaction workflows and backend architecture.
+A distributed payment-processing platform built around Go microservices and event-driven transaction workflows.
 
 **Highlights**
 
-* Payment initiation & validation
-* Transaction state management
-* Failure handling
-* PostgreSQL persistence
-* Redis state caching
+* Payment processing workflow
+* Kafka-based event communication
+* Idempotency & retries
+* Dead-letter queue handling
+* Outbox pattern
+* Redis + PostgreSQL
 
-`Go` `PostgreSQL` `Redis` `REST APIs` `Docker`
+`Go` `Kafka` `PostgreSQL` `Redis` `React/TS` `Docker`
 
 </td>
 
@@ -145,10 +146,10 @@ A distributed payment-processing platform designed around realistic transaction 
 ### 🧾 AI Finance Controller
 
 <a href="https://github.com/mandar-1dev/finance-controller">
-<img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-An AI-assisted financial reconciliation system comparing gateway settlements with merchant ledger records.
+An AI-assisted financial reconciliation system comparing gateway settlements against merchant ledger records.
 
 **Highlights**
 
@@ -156,7 +157,7 @@ An AI-assisted financial reconciliation system comparing gateway settlements wit
 * LLM second-opinion verification
 * Reconciliation workflow
 * Automated testing
-* No silent transaction drops
+* Designed to avoid silent transaction drops
 
 `Go` `Gemini` `REST APIs` `Testing`
 
@@ -171,10 +172,10 @@ An AI-assisted financial reconciliation system comparing gateway settlements wit
 ### 🏦 CoreBank
 
 <a href="https://github.com/mandar-1dev/finbank-core">
-<img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-A full-stack core banking simulation focused on transaction workflows and relational data consistency.
+A banking simulation platform focused on transaction integrity, account ledgers, and fund transfers using direct database access.
 
 **Highlights**
 
@@ -193,16 +194,16 @@ A full-stack core banking simulation focused on transaction workflows and relati
 ### 🎬 Cinema Seat Booking
 
 <a href="https://github.com/mandar-1dev/cinema-seat-booking">
-<img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-A concurrency-focused booking engine implementing a **hold → confirm → release** workflow.
+A Redis-backed **hold → confirm → release** booking engine designed for high-concurrency seat reservations.
 
 **Highlights**
 
 * Atomic Redis seat claiming
 * Concurrent booking protection
-* TTL-based hold expiry
+* TTL-based automatic expiry
 * High-concurrency testing
 * Dockerized environment
 
@@ -219,10 +220,10 @@ A concurrency-focused booking engine implementing a **hold → confirm → relea
 ### ✈️ Airport Digital Twin
 
 <a href="https://github.com/mandar-1dev/Airport-Management">
-<img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-A digital-twin style airport operations simulator modeling multiple subsystems running concurrently.
+An airport operations simulator modeling multiple subsystems as a **tick-based state machine**.
 
 **Highlights**
 
@@ -230,7 +231,7 @@ A digital-twin style airport operations simulator modeling multiple subsystems r
 * Gate assignment
 * Passenger-flow simulation
 * Operational analytics
-* Tick-based state machine
+* Predictive/anomaly analysis
 
 `Python` `Streamlit` `SQLite` `Scikit-learn` `Pandas` `Plotly`
 
@@ -238,22 +239,19 @@ A digital-twin style airport operations simulator modeling multiple subsystems r
 
 <td width="50%" valign="top">
 
-### 🎯 Smart Interviewer
+### 🎨 AI Sketch-to-Animation
 
-<a href="https://github.com/mandar-1dev/Smart-Interviewer">
-<img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github"/>
-</a>
-
-A full-stack AI interview simulator for practicing software-engineering interviews with AI-generated feedback.
+An AI-powered computer-vision pipeline that transforms hand-drawn sketches into animated results.
 
 **Highlights**
 
-* AI-driven interview questions
-* Real-time interaction
-* Automated feedback
-* Progress tracking
+* Computer-vision preprocessing
+* Gemini Vision integration
+* FastAPI backend
+* React/TypeScript frontend
+* Containerized workflow
 
-`JavaScript` `Gemini API` `Full-Stack`
+`FastAPI` `OpenCV` `Gemini Vision` `React/TS` `Docker`
 
 </td>
 
@@ -272,17 +270,13 @@ A full-stack AI interview simulator for practicing software-engineering intervie
 
 </div>
 
-<br/>
-
-### ⚙️ Backend & Frameworks
+### 🌐 Frontend & Backend
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=fastapi,nodejs,react&perline=3"/>
+<img src="https://skillicons.dev/icons?i=react,nodejs,fastapi,html,css&perline=5"/>
 
 </div>
-
-<br/>
 
 ### 🗄️ Databases & Infrastructure
 
@@ -291,8 +285,6 @@ A full-stack AI interview simulator for practicing software-engineering intervie
 <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,docker,linux&perline=6"/>
 
 </div>
-
-<br/>
 
 ### 🤖 AI & Intelligent Systems
 
@@ -305,8 +297,6 @@ A full-stack AI interview simulator for practicing software-engineering intervie
 <img src="https://img.shields.io/badge/Gemini_API-8E75B2?style=for-the-badge&logo=google-gemini&logoColor=white"/>
 
 </div>
-
-<br/>
 
 ### 🔧 Tools
 
@@ -324,7 +314,7 @@ A full-stack AI interview simulator for practicing software-engineering intervie
 
 | Program                               | Focus                              |
 | :------------------------------------ | :--------------------------------- |
-| 🌟 **GirlScript Summer of Code 2026** | AI/ML repositories                 |
+| 🌟 **GirlScript Summer of Code 2026** | AI/ML open-source repositories     |
 | 🌟 **Nexus Spring of Code 2026**      | Backend & distributed systems      |
 | 🌟 **Open Source Connect India 2026** | PRs, issues, fixes & documentation |
 
@@ -358,7 +348,7 @@ A full-stack AI interview simulator for practicing software-engineering intervie
 
 **AI × Backend × Systems × Architecture**
 
-<br/><br/>
+<br/>
 
 <a href="https://github.com/mandar-1dev">
 <img src="https://img.shields.io/badge/Explore_My_GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
