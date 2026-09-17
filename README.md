@@ -1,4 +1,4 @@
-<div align="center">
+[[<div align="center">
 
 <img src="assets/avatar.svg" width="180" height="180" alt="Mandar Suryavanshi"/>
 
@@ -177,3 +177,4 @@ A full-stack AI interview simulator for practicing SWE interviews, with real-tim
 **AI → Full Stack → Architecture → Scale → Impact 🚀**
 
 </div>
+](https://github.com/mandar-1dev/mandar-1dev)](https://github.com/mandar-1dev/mandar-1dev)
