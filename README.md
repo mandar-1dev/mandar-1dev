@@ -127,6 +127,10 @@ An AI-powered computer-vision pipeline that turns hand-drawn sketches into anima
 <img src="https://img.shields.io/badge/Gemini_API-8E75B2?style=for-the-badge&logo=google-gemini&logoColor=white"/>
 </p>
 
+<p align="center">
+<img width="480" src="https://quickchart.io/chart?bkg=%230d1117&c=%7B%22type%22%3A%20%22radar%22%2C%20%22data%22%3A%20%7B%22labels%22%3A%20%5B%22Go%22%2C%20%22Python%22%2C%20%22JavaScript%2FTS%22%2C%20%22System%20Design%22%2C%20%22AI%20%2F%20RAG%22%2C%20%22Databases%22%2C%20%22React%22%2C%20%22DevOps%22%5D%2C%20%22datasets%22%3A%20%5B%7B%22label%22%3A%20%22Proficiency%22%2C%20%22data%22%3A%20%5B85%2C%2080%2C%2075%2C%2070%2C%2085%2C%2075%2C%2070%2C%2065%5D%2C%20%22backgroundColor%22%3A%20%22rgba%28110%2C68%2C255%2C0.25%29%22%2C%20%22borderColor%22%3A%20%22%236E44FF%22%2C%20%22pointBackgroundColor%22%3A%20%22%2300D4FF%22%2C%20%22pointBorderColor%22%3A%20%22%23fff%22%7D%5D%7D%2C%20%22options%22%3A%20%7B%22title%22%3A%20%7B%22display%22%3A%20true%2C%20%22text%22%3A%20%22Skill%20Proficiency%22%2C%20%22fontColor%22%3A%20%22%23ffffff%22%7D%2C%20%22legend%22%3A%20%7B%22display%22%3A%20false%7D%2C%20%22scale%22%3A%20%7B%22ticks%22%3A%20%7B%22beginAtZero%22%3A%20true%2C%20%22max%22%3A%20100%2C%20%22fontColor%22%3A%20%22%23ffffff%22%2C%20%22backdropColor%22%3A%20%22transparent%22%7D%2C%20%22angleLines%22%3A%20%7B%22color%22%3A%20%22rgba%28255%2C255%2C255%2C0.2%29%22%7D%2C%20%22gridLines%22%3A%20%7B%22color%22%3A%20%22rgba%28255%2C255%2C255%2C0.2%29%22%7D%2C%20%22pointLabels%22%3A%20%7B%22fontColor%22%3A%20%22%23ffffff%22%2C%20%22fontSize%22%3A%2013%7D%7D%7D%7D"/>
+</p>
+
 <br/>
 
 ## 🌱 Open Source
