@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=40&duration=2800&pause=900&color=6E44FF&center=true&vCenter=true&width=650&height=70&lines=Mandar+Suryavanshi" alt="Mandar Suryavanshi"/>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="45" height="45" alt="waving hand"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=36&duration=2800&pause=900&color=6E44FF&center=true&vCenter=true&width=650&height=70&lines=Hi%2C+I+am+Mandar+Suryavanshi" alt="Hi, I am Mandar Suryavanshi"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3200&pause=800&color=00D4FF&center=true&vCenter=true&width=700&lines=AI+Systems+%C2%B7+Full+Stack+%C2%B7+Backend+Engineering;Building+intelligent%2C+scalable+software;CS+%26+Data+Science+Student+%C2%B7+Pune%2C+India" alt="Typing SVG"/>
 
@@ -97,11 +99,9 @@ A Redis-backed **hold → confirm → release** booking engine, proving exactly 
 
 <tr>
 <td colspan="2">
-<h3>🎨 AI Sketch-to-Animation</h3>
+<h3>🎨 <a href="https://github.com/mandar-1dev/animation-creator">AI Sketch-to-Animation</a></h3>
 
 An AI-powered computer-vision pipeline that turns hand-drawn sketches into animated results — OpenCV preprocessing feeding into Gemini Vision, served through a FastAPI backend and a React/TypeScript frontend.
-
-<sub>🚧 Repo not public yet — link will be added once it's pushed.</sub>
 
 `FastAPI` `OpenCV` `Gemini Vision` `React/TS` `Docker`
 
@@ -126,19 +126,6 @@ An AI-powered computer-vision pipeline that turns hand-drawn sketches into anima
 <img src="https://img.shields.io/badge/Vector_DBs-6E44FF?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Gemini_API-8E75B2?style=for-the-badge&logo=google-gemini&logoColor=white"/>
 </p>
-
-<br/>
-
-## 📊 GitHub Activity
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=mandar-1dev&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github&count_private=true&include_all_commits=true"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mandar-1dev&layout=compact&hide_border=true&theme=tokyonight"/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mandar-1dev&theme=tokyo-night&hide_border=true" width="90%"/>
-
-</div>
 
 <br/>
 
