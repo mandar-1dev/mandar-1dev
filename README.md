@@ -73,7 +73,7 @@ A distributed payment-processing platform built around Go microservices and even
 
 A banking simulation platform focused on transaction integrity, account ledgers, and fund transfers via direct database access — no ORM shortcuts.
 
-`Java` `MySQL` `REST APIs` `HTML/CSS/JS`
+`Go` `MySQL` `REST APIs` `HTML/CSS/JS`
 
 </td>
 </tr>
