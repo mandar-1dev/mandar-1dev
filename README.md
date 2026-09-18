@@ -11,7 +11,7 @@
 <p>
   <a href="https://www.linkedin.com/in/mandar-acse"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:mandar.acse4@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://mandar-1dev.github.io"><img src="https://img.shields.io/badge/Portfolio-6E44FF?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+  <a href="https://mandar-webport.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-6E44FF?style=for-the-badge&logo=vercel&logoColor=white"/></a>
   <a href="https://github.com/mandar-1dev"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
@@ -146,7 +146,7 @@ An AI-powered computer-vision pipeline that turns hand-drawn sketches into anima
 
 <p>
   <a href="https://github.com/mandar-1dev"><img src="https://img.shields.io/badge/Explore_My_GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://mandar-1dev.github.io"><img src="https://img.shields.io/badge/Visit_My_Portfolio-6E44FF?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+  <a href="https://mandar-webport.netlify.app/"><img src="https://img.shields.io/badge/Visit_My_Portfolio-6E44FF?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 </p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=90&section=footer"/>
